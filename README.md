@@ -1,6 +1,6 @@
 ## 💻 Sobre
 
-O projeto é um clone da Home do tão amado Netflix, criado com React, JavaScript e Css.
+O projeto é um clone da Home do tão amado Netflix
 <br>
 <h3 align="center"><a href="https://netflix-clone-carlosfallac.vercel.app/" target="_blank" rel="noopener noreferrer">Clique aqui para ver o projeto!</a><h3>
 <br>
@@ -19,7 +19,7 @@ O projeto é um clone da Home do tão amado Netflix, criado com React, JavaScrip
 ## 📋 Instalação
 
     - Clonar repositorio
-    $ git clone https://github.com/carolandrade1/instalura.git && cd instalura
+    $ git clone https://github.com/carlosfallac/netflix-clone.git && cd instalura
 
     - Instalar dependencias
     $ npm install
