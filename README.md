@@ -5,8 +5,8 @@
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></p>
 
-###Projeto Desenvolvido para aprofundamento em ReactJS.
+  Projeto Desenvolvido para aprofundamento em ReactJS.
 
-###Efetuado deploy na Vercel, link para a aplicação: https://netflix-clone-carlosfallac.vercel.app/
+  Efetuado deploy na Vercel, link para a aplicação: https://netflix-clone-carlosfallac.vercel.app/
 
-###Utilizado api do <a href="https://www.themoviedb.org/">The Movie Database</a>
+  Utilizado api do <a href="https://www.themoviedb.org/">The Movie Database</a>
