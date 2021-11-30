@@ -28,7 +28,5 @@ O projeto é um clone da Home do tão amado Netflix
     $ npm start
 
     - Acesse http://localhost:3000/ e navegue pelo site
-
-<a href="https://github.com/vercel/next.js/tree/canary/examples/with-styled-components" target="_blank" rel="noopener noreferrer">Example app with styled-components</a>
 <br>
 
