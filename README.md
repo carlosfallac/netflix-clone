@@ -2,10 +2,10 @@
 
 O projeto é um clone da Home do tão amado Netflix
 <br>
-<h3 align="center"><a href="https://netflix-clone-carlosfallac.vercel.app/" target="_blank" rel="noopener noreferrer">Clique aqui para ver o projeto!</a><h3>
+<h3 align="left"><a href="https://netflix-clone-carlosfallac.vercel.app/" target="_blank" rel="noopener noreferrer">Clique aqui para ver o projeto!</a><h3>
 <br>
 
----
+
 
 ## 💻 Linguagens e tecnologias utilizadas
 <p align="left"> 
@@ -14,7 +14,7 @@ O projeto é um clone da Home do tão amado Netflix
 <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
----
+
 
 ## 📋 Instalação
 
