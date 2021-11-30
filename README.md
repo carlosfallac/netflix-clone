@@ -28,5 +28,3 @@ O projeto é um clone da Home do tão amado Netflix
     $ npm start
 
     - Acesse http://localhost:3000/ e navegue pelo site
-<br>
-
