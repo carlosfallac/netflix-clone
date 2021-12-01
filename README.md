@@ -18,10 +18,10 @@ O projeto é um clone da Home do tão amado Netflix
 
 ## 📋 Instalação
 
-    - Clonar repositorio
+    - Clonar repositório
     $ git clone https://github.com/carlosfallac/netflix-clone.git && cd instalura
 
-    - Instalar dependencias
+    - Instalar dependências
     $ npm install
 
     - Rodar aplicativo
