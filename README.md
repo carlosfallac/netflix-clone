@@ -1,6 +1,6 @@
 ## 💻 Sobre
 
-O projeto é um clone da Home do tão amado Netflix
+O projeto consiste em um clone da Home do tão amado Netflix
 <br>
 <h3 align="left"><a href="https://netflix-clone-carlosfallac.vercel.app/" target="_blank" rel="noopener noreferrer">Clique aqui para ver o projeto!</a><h3>
 <br>
